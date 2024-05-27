@@ -1,7 +1,7 @@
-local monster <const> = "Creeper"
+local monster= "Creeper"
 local vida = 20
 local forte = true
 
 print(monster)
-monster = zombi
+monster = "zombi"
 print(monster)
