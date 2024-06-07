@@ -7,6 +7,10 @@ end
 
 print("------------------")
 
+
+
+
+
 local numbers = {40,22,8,27,31,35,39}
 --[[
 for i = 1, #numbers, 1 do
